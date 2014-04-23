@@ -3,7 +3,6 @@
 
 #include <cstdlib>
 #include <stdexcept>
-#include <math.h>
 
 namespace task5_5
 {
